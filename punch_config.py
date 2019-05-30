@@ -4,7 +4,7 @@ GLOBALS = {
     'serializer': '{{major}}.{{minor}}.{{patch}}',
 }
 
-FILES = []
+FILES = ['setup.py', 'src/bareasgi_compression/__version__.py']
 
 VERSION = ['major', 'minor', 'patch']
 
